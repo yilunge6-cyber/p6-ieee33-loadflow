@@ -33,6 +33,7 @@
 ## Day 5: sensitivity and fix
 - What each assumption changes:
 - Chosen capacitor bus and why:
+  I chose bus 30 because it minimises losses, which save money every hour, while still raising minimum voltage from X to Y pu.
 - Before/after result sentence:
 - What the fix did not solve:
 
